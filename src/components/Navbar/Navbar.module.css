@@ -1,0 +1,23 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--main-background-color);
+    text-align: center;
+    padding: 0 16px;
+    height: 55px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 480px;
+}
+
+.navIcon {
+    height: 24px;
+    width: 24px;
+}
+
+.navTitle {
+    color: var(--secondary-font-color);
+    font-size: 24px;
+    font-weight: bold;
+}
